@@ -1,0 +1,211 @@
+[1mdiff --git a/.vs/ProductsService/v17/.suo b/.vs/ProductsService/v17/.suo[m
+[1mindex d18ef50..194e01f 100644[m
+Binary files a/.vs/ProductsService/v17/.suo and b/.vs/ProductsService/v17/.suo differ
+[1mdiff --git a/.vs/ProductsService/v17/DocumentLayout.json b/.vs/ProductsService/v17/DocumentLayout.json[m
+[1mindex 10c4971..23b89ca 100644[m
+[1m--- a/.vs/ProductsService/v17/DocumentLayout.json[m
+[1m+++ b/.vs/ProductsService/v17/DocumentLayout.json[m
+[36m@@ -1,33 +1,33 @@[m
+ {[m
+   "Version": 1,[m
+[31m-  "WorkspaceRootPath": "D:\\GitHub\\ProductsService\\",[m
+[32m+[m[32m  "WorkspaceRootPath": "C:\\Users\\1029693\\source\\repos\\ProductsService\\",[m
+   "Documents": [[m
+     {[m
+[31m-      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|d:\\github\\productsservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+[32m+[m[32m      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|c:\\users\\1029693\\source\\repos\\productsservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+       "RelativeMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"[m
+     },[m
+     {[m
+[31m-      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|d:\\github\\productsservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+[32m+[m[32m      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|c:\\users\\1029693\\source\\repos\\productsservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+       "RelativeMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"[m
+     },[m
+     {[m
+[31m-      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|d:\\github\\productsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+[32m+[m[32m      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|c:\\users\\1029693\\source\\repos\\productsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+       "RelativeMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"[m
+     },[m
+     {[m
+[31m-      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|d:\\github\\productsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",[m
+[32m+[m[32m      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|c:\\users\\1029693\\source\\repos\\productsservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",[m
+       "RelativeMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"[m
+     },[m
+     {[m
+[31m-      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|d:\\github\\productsservice\\filters\\loggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+[32m+[m[32m      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|c:\\users\\1029693\\source\\repos\\productsservice\\filters\\loggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+       "RelativeMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|solutionrelative:filters\\loggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"[m
+     },[m
+     {[m
+[31m-      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|d:\\github\\productsservice\\custom middlewares\\validaterequestheadermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+[32m+[m[32m      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|c:\\users\\1029693\\source\\repos\\productsservice\\custom middlewares\\validaterequestheadermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+       "RelativeMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|solutionrelative:custom middlewares\\validaterequestheadermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"[m
+     },[m
+     {[m
+[31m-      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|d:\\github\\productsservice\\mappers\\productscollectionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+[32m+[m[32m      "AbsoluteMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|c:\\users\\1029693\\source\\repos\\productsservice\\mappers\\productscollectionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+       "RelativeMoniker": "D:0:0:{9C32E421-1BE3-4A36-999B-222D64627B39}|ProductsService.csproj|solutionrelative:mappers\\productscollectionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"[m
+     }[m
+   ],[m
+[36m@@ -38,24 +38,8 @@[m
+       "DocumentGroups": [[m
+         {[m
+           "DockedWidth": 200,[m
+[31m-          "SelectedChildIndex": 30,[m
+[32m+[m[32m          "SelectedChildIndex": 27,[m
+           "Children": [[m
+[31m-            {[m
+[31m-              "$type": "Bookmark",[m
+[31m-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"[m
+[31m-            },[m
+[31m-            {[m
+[31m-              "$type": "Bookmark",[m
+[31m-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"[m
+[31m-            },[m
+[31m-            {[m
+[31m-              "$type": "Bookmark",[m
+[31m-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"[m
+[31m-            },[m
+[31m-            {[m
+[31m-              "$type": "Bookmark",[m
+[31m-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"[m
+[31m-            },[m
+             {[m
+               "$type": "Bookmark",[m
+               "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"[m
+[36m@@ -128,6 +112,10 @@[m
+               "$type": "Bookmark",[m
+               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"[m
+             },[m
+[32m+[m[32m            {[m
+[32m+[m[32m              "$type": "Bookmark",[m
+[32m+[m[32m              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"[m
+[32m+[m[32m            },[m
+             {[m
+               "$type": "Bookmark",[m
+               "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"[m
+[36m@@ -156,35 +144,37 @@[m
+               "$type": "Document",[m
+               "DocumentIndex": 4,[m
+               "Title": "LoggingFilter.cs",[m
+[31m-              "DocumentMoniker": "D:\\GitHub\\ProductsService\\Filters\\LoggingFilter.cs",[m
+[32m+[m[32m              "DocumentMoniker": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Filters\\LoggingFilter.cs",[m
+               "RelativeDocumentMoniker": "Filters\\LoggingFilter.cs",[m
+[31m-              "ToolTip": "D:\\GitHub\\ProductsService\\Filters\\LoggingFilter.cs",[m
+[32m+[m[32m              "ToolTip": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Filters\\LoggingFilter.cs",[m
+               "RelativeToolTip": "Filters\\LoggingFilter.cs",[m
+               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",[m
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",[m
+[31m-              "WhenOpened": "2025-07-05T18:22:17.702Z"[m
+[32m+[m[32m              "WhenOpened": "2025-07-05T18:22:17.702Z",[m
+[32m+[m[32m              "EditorCaption": ""[m
+             },[m
+             {[m
+               "$type": "Document",[m
+               "DocumentIndex": 3,[m
+               "Title": "appsettings.json",[m
+[31m-              "DocumentMoniker": "D:\\GitHub\\ProductsService\\appsettings.json",[m
+[32m+[m[32m              "DocumentMoniker": "C:\\Users\\1029693\\source\\repos\\ProductsService\\appsettings.json",[m
+               "RelativeDocumentMoniker": "appsettings.json",[m
+[31m-              "ToolTip": "D:\\GitHub\\ProductsService\\appsettings.json",[m
+[32m+[m[32m              "ToolTip": "C:\\Users\\1029693\\source\\repos\\ProductsService\\appsettings.json",[m
+               "RelativeToolTip": "appsettings.json",[m
+               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",[m
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",[m
+[31m-              "WhenOpened": "2025-07-06T03:16:08.485Z"[m
+[32m+[m[32m              "WhenOpened": "2025-07-06T03:16:08.485Z",[m
+[32m+[m[32m              "EditorCaption": ""[m
+             },[m
+             {[m
+               "$type": "Document",[m
+               "DocumentIndex": 0,[m
+               "Title": "AuthController.cs",[m
+[31m-              "DocumentMoniker": "D:\\GitHub\\ProductsService\\Controllers\\AuthController.cs",[m
+[32m+[m[32m              "DocumentMoniker": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Controllers\\AuthController.cs",[m
+               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",[m
+[31m-              "ToolTip": "D:\\GitHub\\ProductsService\\Controllers\\AuthController.cs",[m
+[31m-              "RelativeToolTip": "Controllers\\AuthController.cs",[m
+[31m-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",[m
+[32m+[m[32m              "ToolTip": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Controllers\\AuthController.cs*",[m
+[32m+[m[32m              "RelativeToolTip": "Controllers\\AuthController.cs*",[m
+[32m+[m[32m              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC0AAAAdAAAAAAAAAA==",[m
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",[m
+               "WhenOpened": "2025-07-05T17:43:43.689Z",[m
+               "EditorCaption": ""[m
+[36m@@ -193,49 +183,53 @@[m
+               "$type": "Document",[m
+               "DocumentIndex": 1,[m
+               "Title": "ProductsController.cs",[m
+[31m-              "DocumentMoniker": "D:\\GitHub\\ProductsService\\Controllers\\ProductsController.cs",[m
+[32m+[m[32m              "DocumentMoniker": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Controllers\\ProductsController.cs",[m
+               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",[m
+[31m-              "ToolTip": "D:\\GitHub\\ProductsService\\Controllers\\ProductsController.cs",[m
+[32m+[m[32m              "ToolTip": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Controllers\\ProductsController.cs",[m
+               "RelativeToolTip": "Controllers\\ProductsController.cs",[m
+               "ViewState": "AgIAADIAAAAAAAAAAAAqwEIAAAA+AAAAAAAAAA==",[m
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",[m
+[31m-              "WhenOpened": "2025-07-05T18:21:56.807Z"[m
+[32m+[m[32m              "WhenOpened": "2025-07-05T18:21:56.807Z",[m
+[32m+[m[32m              "EditorCaption": ""[m
+             },[m
+             {[m
+               "$type": "Document",[m
+               "DocumentIndex": 2,[m
+               "Title": "Program.cs",[m
+[31m-              "DocumentMoniker": "D:\\GitHub\\ProductsService\\Program.cs",[m
+[32m+[m[32m              "DocumentMoniker": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Program.cs",[m
+               "RelativeDocumentMoniker": "Program.cs",[m
+[31m-              "ToolTip": "D:\\GitHub\\ProductsService\\Program.cs",[m
+[32m+[m[32m              "ToolTip": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Program.cs",[m
+               "RelativeToolTip": "Program.cs",[m
+               "ViewState": "AgIAACgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",[m
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",[m
+[31m-              "WhenOpened": "2025-07-04T17:26:57.711Z"[m
+[32m+[m[32m              "WhenOpened": "2025-07-04T17:26:57.711Z",[m
+[32m+[m[32m              "EditorCaption": ""[m
+             },[m
+             {[m
+               "$type": "Document",[m
+               "DocumentIndex": 5,[m
+               "Title": "ValidateRequestHeaderMiddleware.cs",[m
+[31m-              "DocumentMoniker": "D:\\GitHub\\ProductsService\\Custom Middlewares\\ValidateRequestHeaderMiddleware.cs",[m
+[32m+[m[32m              "DocumentMoniker": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Custom Middlewares\\ValidateRequestHeaderMiddleware.cs",[m
+               "RelativeDocumentMoniker": "Custom Middlewares\\ValidateRequestHeaderMiddleware.cs",[m
+[31m-              "ToolTip": "D:\\GitHub\\ProductsService\\Custom Middlewares\\ValidateRequestHeaderMiddleware.cs",[m
+[32m+[m[32m              "ToolTip": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Custom Middlewares\\ValidateRequestHeaderMiddleware.cs",[m
+               "RelativeToolTip": "Custom Middlewares\\ValidateRequestHeaderMiddleware.cs",[m
+               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",[m
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",[m
+[31m-              "WhenOpened": "2025-07-06T03:19:57.043Z"[m
+[32m+[m[32m              "WhenOpened": "2025-07-06T03:19:57.043Z",[m
+[32m+[m[32m              "EditorCaption": ""[m
+             },[m
+             {[m
+               "$type": "Document",[m
+               "DocumentIndex": 6,[m
+               "Title": "ProductsCollectionMapper.cs",[m
+[31m-              "DocumentMoniker": "D:\\GitHub\\ProductsService\\Mappers\\ProductsCollectionMapper.cs",[m
+[32m+[m[32m              "DocumentMoniker": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Mappers\\ProductsCollectionMapper.cs",[m
+               "RelativeDocumentMoniker": "Mappers\\ProductsCollectionMapper.cs",[m
+[31m-              "ToolTip": "D:\\GitHub\\ProductsService\\Mappers\\ProductsCollectionMapper.cs",[m
+[32m+[m[32m              "ToolTip": "C:\\Users\\1029693\\source\\repos\\ProductsService\\Mappers\\ProductsCollectionMapper.cs",[m
+               "RelativeToolTip": "Mappers\\ProductsCollectionMapper.cs",[m
+               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",[m
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",[m
+[31m-              "WhenOpened": "2025-07-04T16:55:47.777Z"[m
+[32m+[m[32m              "WhenOpened": "2025-07-04T16:55:47.777Z",[m
+[32m+[m[32m              "EditorCaption": ""[m
+             }[m
+           ][m
+         }[m
+[1mdiff --git a/ProductsService b/ProductsService[m
+[1mdeleted file mode 160000[m
+[1mindex 6a6553f..0000000[m
+[1m--- a/ProductsService[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-Subproject commit 6a6553f0219b7c45aa5e784122622c8d0b74d7f3[m
+[1mdiff --git a/ProductsService (2).7z b/ProductsService (2).7z[m
+[1mdeleted file mode 100644[m
+[1mindex f0c8725..0000000[m
+Binary files a/ProductsService (2).7z and /dev/null differ
